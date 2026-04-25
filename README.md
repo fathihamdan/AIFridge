@@ -1,7 +1,7 @@
 
-  # Fridge Inventory App (Copy Hackathon)
+  # AI Fridge Web App: Groceries Tracker
 
-  This is a code bundle for Fridge Inventory App (Copy Hackathon). The original project is available at https://www.figma.com/design/nQPKUG2rbmJ5BXeSnvV8yg/Fridge-Inventory-App--Copy-Hackathon-.
+  Pitching Video: [https://www.figma.com/design/nQPKUG2rbmJ5BXeSnvV8yg/Fridge-Inventory-App--Copy-Hackathon-.](https://drive.google.com/file/d/1_20SLVKQtpfTJRiu2ncwqvZXF2vmkZ7f/view?usp=sharing)
 
   ## Running the code
 
