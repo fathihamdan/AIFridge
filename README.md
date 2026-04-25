@@ -14,7 +14,7 @@ This project was inspired by a hackathon design and focuses on improving househo
 ## 🚀 Features
 
 - 📦 Add and manage fridge items  
-- 🗂️ AI-based recipt reader  
+- 🗂️ AI-based receipt reader  
 - ⏳ Track expiration dates  
 - 🔍 Search and filter items easily  
 - 🤖 AI-based recipe suggestions   
